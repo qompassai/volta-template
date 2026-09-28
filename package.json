@@ -1,0 +1,11 @@
+{
+  "name": "qompassai-volta-starter",
+  "private": true,
+  "version": "0.1.0",
+  "volta": {
+    "node": "22.0.0"
+  },
+  "scripts": {
+    "hello": "node -e \"console.log(\u0027Hello from the Qompass AI Volta template.\u0027)\""
+  }
+}
